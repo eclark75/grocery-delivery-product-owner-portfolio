@@ -69,3 +69,24 @@ The wireframes were designed using the following Product Owner goals:
 ## Next Step
 
 High-fidelity mockups and clickable prototypes can be created from these wireframes for future product iterations.
+---
+
+## Wireframe Screenshots
+
+### Home Screen
+![Home Screen](Home%20Screen.png)
+
+### Categories Screen
+![Categories Screen](Categories%20Screen.png)
+
+### Product Details
+![Product Details](Product%20Details.png)
+
+### Shopping Cart
+![Shopping Cart](Shopping%20Cart.png)
+
+### Checkout
+![Checkout](Checkout.png)
+
+### Order Confirmation
+![Order Confirmation](Confirmation.png)
