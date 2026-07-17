@@ -6,15 +6,13 @@ This repository contains my Product Owner portfolio project, including product v
 
 ## 📂 Portfolio Contents
 
-- 📋 Product Vision
-- 👤 User Personas
-- 📝 Product Backlog
-- ✅ User Stories
-- 🗺️ Product Roadmap
-- 📅 Sprint Planning
-- 🎨 Figma Wireframes
-- 📖 Case Study
-
+- [📖 Case Study](docs/case-study/README.md)
+- [👤 User Personas](docs/personas/README.md)
+- [📝 Product Backlog](docs/backlog/README.md)
+- [✅ User Stories](docs/user-stories/README.md)
+- [🗺️ Product Roadmap](docs/roadmaps/README.md)
+- [📅 Sprint Planning](docs/sprint-planning/README.md)
+- [🎨 Figma Wireframes](docs/wireframes/README.md)
 ---
 
 ## 🛠 Tools Used
